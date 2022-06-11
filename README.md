@@ -1,1 +1,1 @@
-Meu orimeiro projeto do clickteam fusion
+Meu primeiro projeto do clickteam fusion
